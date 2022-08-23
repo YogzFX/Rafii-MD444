@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285774269597','6285774269597','6285774269597']
-global.premium = ['6285774269597']
-global.ownernomer = '6285774269597'
-global.ownername = 'Rafii'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6289510598381','6289510598381','6289510598381']
+global.premium = ['6289510598381']
+global.ownernomer = '6289510598381'
+global.ownername = 'YogzFX'
+global.botname = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.footer = '© 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.ig = 'https://instagram.com/karfuanyogich'
+global.email = 'yogzkyz@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'chika'
+global.packname = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.author = '@YogzFX'
+global.sessionName = 'zenn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
